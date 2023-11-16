@@ -1,0 +1,13 @@
+<svg width="212" height="32" viewBox="0 0 212 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 28C22.6274 28 28 22.6274 28 16C28 9.37258 22.6274 4 16 4C9.37258 4 4 9.37258 4 16C4 22.6274 9.37258 28 16 28Z" stroke="#018762" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 11H19C18.6056 10.9983 18.2147 11.0748 17.85 11.225C17.4853 11.3752 17.1539 11.5961 16.875 11.875C16.5961 12.1539 16.3752 12.4853 16.225 12.85C16.0748 13.2147 15.9984 13.6056 16 14V28" stroke="#018762" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 18H20" stroke="#018762" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80 21C82.7614 21 85 18.7614 85 16C85 13.2386 82.7614 11 80 11C77.2386 11 75 13.2386 75 16C75 18.7614 77.2386 21 80 21Z" stroke="#018762" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M85.5 4.5H74.5C71.1863 4.5 68.5 7.18629 68.5 10.5V21.5C68.5 24.8137 71.1863 27.5 74.5 27.5H85.5C88.8137 27.5 91.5 24.8137 91.5 21.5V10.5C91.5 7.18629 88.8137 4.5 85.5 4.5Z" stroke="#018762" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M86.5 11C87.3284 11 88 10.3284 88 9.5C88 8.67157 87.3284 8 86.5 8C85.6716 8 85 8.67157 85 9.5C85 10.3284 85.6716 11 86.5 11Z" fill="#018762"/>
+<path d="M154.5 4.5H133.5C132.948 4.5 132.5 4.94772 132.5 5.5V26.5C132.5 27.0523 132.948 27.5 133.5 27.5H154.5C155.052 27.5 155.5 27.0523 155.5 26.5V5.5C155.5 4.94772 155.052 4.5 154.5 4.5Z" stroke="#018762" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M143 14V22" stroke="#018762" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M139 14V22" stroke="#018762" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M143 17.5C143 16.5717 143.369 15.6815 144.025 15.0251C144.682 14.3687 145.572 14 146.5 14C147.428 14 148.318 14.3687 148.975 15.0251C149.631 15.6815 150 16.5717 150 17.5V22" stroke="#018762" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M139 11.5C139.828 11.5 140.5 10.8284 140.5 10C140.5 9.17157 139.828 8.5 139 8.5C138.172 8.5 137.5 9.17157 137.5 10C137.5 10.8284 138.172 11.5 139 11.5Z" fill="#018762"/>
+</svg>
